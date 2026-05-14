@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://64.media.tumblr.com/ca9d9f452d8a5a1f8dbf88dbf5a6c0fd/tumblr_p9x1k6nM2M1x3n4yjo1_540.gif" width="220"/>
+<img src="https://tenor.com/q4ehVA7bpTp.gif" width="230"/>
 
 <br><br>
 
@@ -22,11 +22,15 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,mysql,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&theme=light" />
 
 <br><br>
 
-<img src="[https://media.tenor.com/6ZUs58774jwAAAAi/pixel-cat.gif](https://tenor.com/q4ehVA7bpTp.gif)" width="120" align="center"/>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="180"/>
+
+<img src="https://media.tenor.com/6ZUs58774jwAAAAi/pixel-cat.gif" width="120"/>
+
+<img src="https://media.tenor.com/mGWK46G8SEAAAAAi/pixel-cat-computer.gif" width="140"/>
 
 <br><br>
 
