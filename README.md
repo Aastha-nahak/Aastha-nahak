@@ -1,35 +1,18 @@
-<h2 align="center">Hi! My name is Aastha and I'm a student !</h2>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Aastha%20Nahak&fontAlign=50&fontAlignY=38&color=0:89CFF0,50:B0E0E6,100:E0FFFF&fontColor=ffffff&animation=fadeIn&desc=just%20a%20girl%20surviving%20coding%20%F0%9F%92%BB&descAlignY=58" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=BFEFFF&center=true&vCenter=true&width=500&lines=MCA+student+%F0%9F%92%BB;future+rich+girl+loading+%F0%9F%92%85;gym+%7C+fashion+%7C+coding;powered+by+music+and+iced+coffee" />
-
-<br><br>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrczdsaDF6bDNjNHA2bXI1c3ZkNmcxOHZyMjg1czFtbnd6MjllbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="260"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aastha-nahak&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Aastha-nahak&theme=tokyonight&border_radius=20&ring=BFEFFF&fire=BFEFFF&currStreakLabel=BFEFFF&sideLabels=E0FFFF&dates=E0FFFF" height="170"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&theme=light" />
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br><br>
-</div>
+# 💫 About Me:
+Style:<br>- Clean and visually balanced<br>- Gen Z internet humor<br>- Anime/cyber vibe<br>- Professional but fun<br>- Minimal clutter<br>- Smooth section spacing<br><br>Include:<br>- Animated typing header<br>- Cool intro section<br>- Short funny bio<br>- Tech stack icons using skillicons.dev<br>- GitHub stats cards<br>- Contribution streak stats<br>- Top languages card<br>- Anime/coding GIF banner<br>- Social links section<br>- Clean separators<br>- Visitor counter<br>- Snake contribution animation<br><br>My details:<br>Name: Aastha<br>Username: Aastha-nahak<br>Pronouns: she/her<br>Currently learning: Python, DSA, Web Dev<br>Interests: Fashion, Tech, Dance, Gym, Designing<br>Personality vibe: chaotic, ambitious, stylish, funny<br><br>Make the README:<br>- Ready to paste directly into GitHub README.md<br>- Use markdown + HTML formatting<br>- Use centered layouts<br>- Include aesthetic badges<br>- Use dark themed GitHub stats<br>- Keep it visually impressive like top GitHub profiles<br>- Avoid cringe corporate wording<br>- Add subtle funny lines and internet humor
 
 
+## 🌐 Socials:
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/aasthanahak/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/OldPlantain2448/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aasthanahak@gmail.com) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aastha-nahak&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aastha-nahak&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aastha-nahak&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Aastha-nahak&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
