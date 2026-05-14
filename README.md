@@ -28,7 +28,7 @@
 
 <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="180"/>
 
-<img src="https://media.tenor.com/6ZUs58774jwAAAAi/pixel-cat.gif" width="120"/>
+<img src="https://media.tenor.com/6ZUs58774jwAAAAi/pixel-cat.gif" width="120" align="center"/>
 
 <img src="https://media.tenor.com/mGWK46G8SEAAAAAi/pixel-cat-computer.gif" width="140"/>
 
