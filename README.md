@@ -1,6 +1,6 @@
 # 💫 About Me:
-Style:<br>- Clean and visually balanced<br>- Gen Z internet humor<br>- Anime/cyber vibe<br>- Professional but fun<br>- Minimal clutter<br>- Smooth section spacing<br><br>Include:<br>- Animated typing header<br>- Cool intro section<br>- Short funny bio<br>- Tech stack icons using skillicons.dev<br>- GitHub stats cards<br>- Contribution streak stats<br>- Top languages card<br>- Anime/coding GIF banner<br>- Social links section<br>- Clean separators<br>- Visitor counter<br>- Snake contribution animation<br><br>My details:<br>Name: Aastha<br>Username: Aastha-nahak<br>Pronouns: she/her<br>Currently learning: Python, DSA, Web Dev<br>Interests: Fashion, Tech, Dance, Gym, Designing<br>Personality vibe: chaotic, ambitious, stylish, funny<br><br>Make the README:<br>- Ready to paste directly into GitHub README.md<br>- Use markdown + HTML formatting<br>- Use centered layouts<br>- Include aesthetic badges<br>- Use dark themed GitHub stats<br>- Keep it visually impressive like top GitHub profiles<br>- Avoid cringe corporate wording<br>- Add subtle funny lines and internet humor
-
+Style:<br>- Learning code because apparently “it’ll be useful someday.”
+<br>- Probably fixing a semicolon mistake right now.<br>- Writing bugs faster than fixing them.<br>
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/aasthanahak/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/OldPlantain2448/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aasthanahak@gmail.com) 
