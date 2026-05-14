@@ -29,9 +29,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br><br>
-
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="180"/>
-
 </div>
 
 
