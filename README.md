@@ -3,9 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aastha-nahak/Aastha-nahak/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Aastha-nahak/Aastha-nahak/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aastha-nahak&show_icons=true&theme=tokyonight" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aastha-nahak&layout=compact&theme=tokyonight" height="150" />
 </div>
+
 
 ###
 
