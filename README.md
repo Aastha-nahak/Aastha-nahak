@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://tenor.com/q4ehVA7bpTp.gif" width="230"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrczdsaDF6bDNjNHA2bXI1c3ZkNmcxOHZyMjg1czFtbnd6MjllbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="260"/>
 
 <br><br>
 
@@ -26,20 +26,13 @@
 
 <br><br>
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="180"/>
-
-<img src="https://media.tenor.com/6ZUs58774jwAAAAi/pixel-cat.gif" width="120"/>
-
-<img src="https://media.tenor.com/mGWK46G8SEAAAAAi/pixel-cat-computer.gif" width="140"/>
-
-<br><br>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://i.pinimg.com/originals/cc/74/15/cc7415d6775e0f5b9d7bb1f7ed0c4b65.gif" width="100%"/>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="180"/>
 
 </div>
+
 
 
