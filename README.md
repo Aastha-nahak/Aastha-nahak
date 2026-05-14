@@ -1,11 +1,16 @@
 <h2 align="left">Hi! My name is Aastha and I'm a student !</h2>
 
 ###
+<h1 align="center">Hi 👋 I'm Aastha</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aastha-nahak&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aastha-nahak&theme=tokyonight" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aastha-nahak&layout=compact&theme=tokyonight" height="150" />
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aastha-nahak&theme=tokyonight" height="160" />
 </div>
 
 ###
