@@ -1,5 +1,5 @@
 # 💫 About Me:
-Style:<br>- Learning code because apparently “it’ll be useful someday.”
+<br>- Learning code because apparently “it’ll be useful someday.”
 <br>- Probably fixing a semicolon mistake right now.<br>- Writing bugs faster than fixing them.<br>
 
 ## 🌐 Socials:
